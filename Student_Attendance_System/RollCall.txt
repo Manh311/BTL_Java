@@ -1,0 +1,6 @@
+ID: 1132456 | Name:  Nguyễn Văn An | Class:  CNTT17-03 | Attended: No
+ID: 2136589 | Name:  Trần Ngọc Bảo | Class:  CNTT17-03 | Attended: No
+ID: 3713572 | Name:  Lê Văn Chiến | Class:  CNTT17-03 | Attended: No
+ID: 4135135 | Name:  Nguyễn Trí Dũng | Class:  CNTT17-03 | Attended: No
+ID: 5215351 | Name:  Trần Đông Đức | Class:  CNTT17-03 | Attended: No
+ID: 6124124 | Name:  Nguyễn Xuân Giang | Class:  CNTT17-03 | Attended: No
