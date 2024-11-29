@@ -12,27 +12,29 @@ public class Student {
     }
 
     public String getStudentID() {
-        return studentID;
+        return this.studentID;
     }
 
     public String getStudentName() {
-        return studentName;
+        return this.studentName;
     }
 
     public String getStudentClass() {
-        return studentClass;
+        return this.studentClass;
     }
 
     public boolean isAttend() {
-        return attend;
+        return this.attend;
     }
 
     public void setAttend(boolean attend) {
         this.attend = attend;
     }
 
-    @Override
     public String toString() {
-        return "ID: " + studentID + " | Name: " + studentName + " | Class: " + studentClass + " | Attended: " + (attend ? "Yes" : "No");
+        return  "ID: " + this.studentID +
+                " | Name: " + this.studentName +
+                " | Class: " + this.studentClass +
+                " | Attended: " + (this.attend ? "Yes" : "No");
     }
 }
